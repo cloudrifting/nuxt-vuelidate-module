@@ -1,0 +1,25 @@
+{
+  "name": "nuxt-vuelidate-module",
+  "version": "1.0.0",
+  "description": "vuelidate for Nuxt.js",
+  "main": "src/main.js",
+  "scripts": {
+    "release": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunchaserkuafu/nuxt-vuelidate-module.git"
+  },
+  "author": "sunchaserkuafu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunchaserkuafu/nuxt-vuelidate-module/issues"
+  },
+  "homepage": "https://github.com/sunchaserkuafu/nuxt-vuelidate-module#readme",
+  "dependencies": {
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {
+    "vue": "^2.6.11"
+  }
+}
